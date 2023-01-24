@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <div className="header">
       <div className="logo">
-        <Link to="/">Goal Setter</Link>
+        <Link to="/">Goal App</Link>
       </div>
       <ul>
         {user ? (
